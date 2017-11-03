@@ -5,5 +5,7 @@ I write security codings and contribute free to security community for people aw
 So far miles,
 
 Web Application Vulns - Amazon AWS Cloud VM Servers, Oracle FCDB
+
 Software              - Adobe Reader, Viscosity VPN, Opera Browser, Avant Browser
+
 Hardware              - TERACOM ROUTER
