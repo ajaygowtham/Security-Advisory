@@ -1,10 +1,7 @@
 # Security-Advisory
 Vulnerabilities in Software/ Hardware/ Web Application
 
-
-<b>Technical Details: </b>
-
-<h1><b>Audio Cutter Software - Code Injection Vulnerability</b></h1>
+<h1><b> CV-20177 - Audio Cutter Software - Code Injection Vulnerability</b></h1>
 
 Vulnerability Title: 
 ====================
@@ -51,3 +48,5 @@ Output Encoding:
 Perform proper output validation and escaping to neutralize all code syntax from data written to code files.
 
 Video PoC: https://youtu.be/WuB0i6M5b3A
+
+
