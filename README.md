@@ -2,11 +2,18 @@
 Vulnerabilities in Software/ Hardware/ Web Application
 
 
-Technical Details:
+<b>Technical Details: </b>
+
+<h1><b>Audio Cutter Software - Code Injection Vulnerability</b></h1>
 
 Vulnerability Title: 
 ====================
-Audio Cutter Software - Code Injection Vulnerability Tool Name: Weeny Audio Cutter Software v1.5 Critical Level: High Author: Ajay Gowtham aka AJOXR (Blackhat forums) Type: Software Security Bug Technical Impact: Execute Unauthorized Code or Arbitrary Commands Product Download: http://www.weenysoft.com/free-audio-cutter.html Download Vulnerable Tool: https://drive.google.com/open?id=1sYE-WNCpc_KCs2gxWtfZQKSrKZtTk9xC (Injected PoC)
+#Audio Cutter Software - Code Injection Vulnerability 
+#Tool Name: Weeny Audio Cutter Software v1.5 
+#Critical Level: High 
+#Author: Ajay Gowtham aka AJOXR (Blackhat forums) 
+#Type: Software Security Bug 
+#Technical Impact: Execute Unauthorized Code or Arbitrary Commands Product Download: http://www.weenysoft.com/free-audio-cutter.html #Download Vulnerable Tool: https://drive.google.com/open?id=1sYE-WNCpc_KCs2gxWtfZQKSrKZtTk9xC (Injected PoC)
 
 Overview of the Tool:
 ======================
